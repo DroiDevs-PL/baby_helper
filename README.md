@@ -6,5 +6,6 @@
 3. Tekst interfejsu definiujemy w pliku strings.xml. Umożliwi to łatwe zaimplementowanie wielojęzyczności. [android.developers](https://developer.android.com/guide/topics/resources/string-resource.html)
 4. Projekt piszemy ze wzorcem MVP. [Przykładowy tutorial](https://medium.com/@cervonefrancesco/model-view-presenter-android-guidelines-94970b430ddf)
 5. Nazewnictwo zmiennych, metod, klas, commit'ów itp. przyjmujemy angielskie
+6. Przyjmujemy nazewnictwo w notacji camelCase.
 
 Jak coś mi jeszcze przyjdzie na myśl to dopiszę. W razie pytań pisać na maila [jakub.neukirch@gmail.com](jakub.neukirch@gmail.com) lub na slacku @Kuba
